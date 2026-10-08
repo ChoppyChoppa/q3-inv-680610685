@@ -43,6 +43,8 @@ export function StudentInfo() {
             <p>ดูหนัง, ฟังเพลง, ขี่มอไซค์เที่ยว</p>
             <Badge variant="outline">Email</Badge>
             <p>nontanun_h@cmu.ac.th</p>
+            <Badge variant="outline">Social</Badge>
+            <p>Facebook: Nontanun Hinmalai</p>
             <CardFooter>รหัสนักศึกษา: 680610685</CardFooter>
           </CardContent>
         </Card>
